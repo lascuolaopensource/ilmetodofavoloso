@@ -21,7 +21,7 @@ Regolamento per la cura, l’uso, la gestione e la rigenerazione dei Beni comuni
 
 # TITOLO II - STRUMENTI E DISPOSIZIONI PROCEDURALI
 
-## **CAPO I*** - STRUMENTI PROCEDURALI
+## **CAPO I** - STRUMENTI PROCEDURALI
 
 **Articolo 6** - Ufficio per i Beni comuni
 
