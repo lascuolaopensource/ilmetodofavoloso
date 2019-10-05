@@ -1,2 +1,3 @@
-# ilmetodofavoloso
+# Il Metodo Favoloso
+
 Quando Ex fadda ci ha chiamati a questa sfida l’obiettivo era capire quali destinazioni d'uso assegnare agli immobili individuati dall’Amministrazione di San Vito all’interno del percorso di generazione urbana avviato nel 2017 chiamato Santu Vitu e con quali modalità darli in gestione ai cittadini che ne avrebbero fatto richiesta. Da qui è nato dunque XYZ - Santu Vitu Mia Reloaded. Il processo, però, ci ha portati in un’altra direzione. Siamo partiti dall’analisi delle esperienze già note - come quella del regolamento sviluppato da Labsus per il comune di Bologna - per elaborare qualcosa di inedito e favoloso.
