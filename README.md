@@ -33,3 +33,5 @@ Abbiate cura di fare interventi appropriati.
 ## Licenza
 
 [CC-BY-NC-ND-3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode)
+
+[Human-readable version](https://creativecommons.org/licenses/by/3.0/)
