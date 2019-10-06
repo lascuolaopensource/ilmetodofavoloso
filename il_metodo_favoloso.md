@@ -1,5 +1,3 @@
-Regolamento per la cura, l’uso, la gestione e la rigenerazione dei Beni comuni XYZ
-
 # INDICE:
 Regolamento per la cura, l’uso, la gestione e la rigenerazione dei Beni comuni XYZ
 
