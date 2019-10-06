@@ -6,7 +6,7 @@ Si tratta del **Regolamento dei Beni Comuni XYZ**, una nuova politica per l’us
 
 In quest’ottica, alcuni immobili di San Vito dei Normanni **diventeranno dei laboratori** dove **si sperimenteranno modalità di auto-governo e auto-gestione sostenibili**. Le capacità, le conoscenze, le idee troveranno luoghi nei quali essere discusse e messe a disposizione della collettività. 
 
-#Gli edifici — e le comunità che li vivranno — diventeranno **beni comuni**.
+Gli edifici — e le comunità che li vivranno — diventeranno **beni comuni**.
 
 **Questi beni non avranno destinazioni d’uso**, **programmi** o **una lista fissa di membri dell’assemblea**: la loro **generatività** e la **forza propulsiva** saranno **conseguenza dello spazio di possibilità garantito dall’indeterminazione**.
 
