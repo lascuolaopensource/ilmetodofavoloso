@@ -15,10 +15,11 @@ Gli edifici — e le comunità che li vivranno — diventeranno **beni comuni**.
 
 ```Rigenerazione non è solo trasformazione fisica di una città ma è anche azione fisica nella città. Rigenerazione è miglioramento dei luoghi grazie alle opere umane che da dentro i luoghi ognuno di noi può attivare. Rigenerazione è un'impresa culturale che immagina nuove strade. Rigenerazione è responsabilità pubblica del privato e trasformazione delle abitudini private grazie a politiche pubbliche. Rigenerazione è affiancarsi alla natura e decidere con essa cosa sarà del nostro futuro. ```
 
-**Dal DPRU del Comune di San Vito dei Normanni.**
+**Dal DPRU del Comune di San Vito dei Normanni**
 
 «San Vito ha preso dieci di questi spazi e ha detto *“no, non te li do, devono diventare una struttura portante per la mia comunità, perché la mia comunità è in crisi, la mia comunità ha perso le sue radici, la mia comunità si sente sola, si sente una società di individui”.* Questo è un ossimoro. Società e individui sono due cose che non possono andare insieme. E allora noi dobbiamo fare una società di esseri umani in relazione, e per farla abbiamo bisogno di strumenti. **Dobbiamo darci strumenti per metterci in relazione**».
-(dall'intervento finale di Nicola Capone)
+
+**Dall'intervento finale di Nicola Capone**
 
 Il processo che emerge dal regolamento prende il nome di **Algoritmo dei beni comuni: metodo favoloso per far sbocciare un bene** ed è stato sintetizzato in due schemi che lo rappresentano tramite un flowchart, utilizzando le fasi di una storia d'amore. Inoltre, il collaborazione con il **laboratorio X e Y **è stata costruita una **strategia di comunicazione**, in particolare sull’articolazione del **progetto d'identità** (“Il Metodo Favoloso”) e sulle meccaniche di “generazione del senso” e sono stati sviluppati strumenti e azioni non convenzionali di comunicazione.
 
