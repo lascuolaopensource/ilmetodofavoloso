@@ -32,7 +32,7 @@ un glossario;
 la procedura per attivare uno spazio nella propria città; 
 le componenti sociali da mappare e coinvolgere;
 gli strumenti decisionali e di auto-gestione; 
-la visione
+la visione.
 
 ↳ http://bit.ly/toolkit-favoloso // **toolkit .doc**
 
