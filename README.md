@@ -1,6 +1,14 @@
 # Il Metodo Favoloso
 
-Quando Ex fadda ci ha chiamati a questa sfida l’obiettivo era capire quali destinazioni d'uso assegnare agli immobili individuati dall’Amministrazione di San Vito all’interno del percorso di generazione urbana avviato nel 2017 chiamato Santu Vitu e con quali modalità darli in gestione ai cittadini che ne avrebbero fatto richiesta. Da qui è nato dunque XYZ - Santu Vitu Mia Reloaded. Il processo, però, ci ha portati in un’altra direzione. Siamo partiti dall’analisi delle esperienze già note - come quella del regolamento sviluppato da Labsus per il comune di Bologna - per elaborare qualcosa di inedito e favoloso.
+Il **laboratorio Z – Processi e Comunità** si è occupato — dopo una prima fase di indagine etnografica attraverso gli strumenti del design thinking — di elaborare una proposta di regolamento dei beni comuni per la città di San Vito dei Normanni (e non solo).
+
+Si tratta del **Regolamento dei Beni Comuni XYZ**,  una nuova politica per l’uso dei beni comuni, ispirata dal desiderio di promuovere e incoraggiare la vitalità e la continua evoluzione delle comunità, abilitando l’inatteso attraverso il recupero e l’attivazione di spazi in disuso. Abbiamo immaginato una comunità responsabile di ciò che è collettivamente importante, che se ne prenda cura e lo faccia vivere, riproducendo valori.
+
+In quest’ottica, alcuni immobili di San Vito dei Normanni **diventeranno dei laboratori** dove **si sperimenteranno modalità di auto-governo e auto-gestione sostenibili**. Le capacità, le conoscenze, le idee troveranno luoghi nei quali essere discusse e messe a disposizione della collettività. 
+
+#Gli edifici — e le comunità che li vivranno — diventeranno **beni comuni**.
+
+**Questi beni non avranno destinazioni d’uso**, **programmi** o **una lista fissa di membri dell’assemblea**: la loro **generatività** e la **forza propulsiva** saranno **conseguenza dello spazio di possibilità garantito dall’indeterminazione**.
 
 
 ## Installazione
@@ -17,7 +25,12 @@ Quando Ex fadda ci ha chiamati a questa sfida l’obiettivo era capire quali des
 
 ## Utilizzo
 
-Il manuale si apre con un glossario, presenta l'algoritmo - come procedura su che cosa si può fare per attivare uno spazio nella propria città - un capitolo su come dotarsi degli strumenti decisionali e di autogestione, quali sono i soggetti già associati che possono partecipare o chi sono quegli individui con una funzione sociale da coinvolgere. Infine, come considerare gli spazi all'interno di un ecosistema, per far sì che diverse funzioni sociali possano aiutarsi e collegarsi tra di loro in una cornica di senso predefinita a partire dalle linee guida del DPRU e da quanto emerso durante i laboratori.
+In allegato al regolamento, è stato creato un toolkit cosi composto:
+— un glossario;
+— la procedura per attivare uno spazio nella propria città; 
+— le componenti sociali da mappare e coinvolgere;
+— gli strumenti decisionali e di auto-gestione; 
+— la visione
 
 ↳ http://bit.ly/toolkit-favoloso // **toolkit .doc**
 
