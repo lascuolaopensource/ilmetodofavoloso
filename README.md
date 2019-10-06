@@ -2,7 +2,7 @@
 
 Il **laboratorio Z – Processi e Comunità** si è occupato — dopo una prima fase di indagine etnografica attraverso gli strumenti del design thinking — di elaborare una proposta di regolamento dei beni comuni per la città di San Vito dei Normanni (e non solo).
 
-Si tratta del **Regolamento dei Beni Comuni XYZ**,  una nuova politica per l’uso dei beni comuni, ispirata dal desiderio di promuovere e incoraggiare la vitalità e la continua evoluzione delle comunità, abilitando l’inatteso attraverso il recupero e l’attivazione di spazi in disuso. Abbiamo immaginato una comunità responsabile di ciò che è collettivamente importante, che se ne prenda cura e lo faccia vivere, riproducendo valori.
+Si tratta del **Regolamento dei Beni Comuni XYZ**, una nuova politica per l’uso dei beni comuni, ispirata dal desiderio di promuovere e incoraggiare la vitalità e la continua evoluzione delle comunità, abilitando l’inatteso attraverso il recupero e l’attivazione di spazi in disuso. Abbiamo immaginato una comunità responsabile di ciò che è collettivamente importante, che se ne prenda cura e lo faccia vivere, riproducendo valori.
 
 In quest’ottica, alcuni immobili di San Vito dei Normanni **diventeranno dei laboratori** dove **si sperimenteranno modalità di auto-governo e auto-gestione sostenibili**. Le capacità, le conoscenze, le idee troveranno luoghi nei quali essere discusse e messe a disposizione della collettività. 
 
@@ -20,20 +20,20 @@ In quest’ottica, alcuni immobili di San Vito dei Normanni **diventeranno dei l
 «San Vito ha preso dieci di questi spazi e ha detto *“no, non te li do, devono diventare una struttura portante per la mia comunità, perché la mia comunità è in crisi, la mia comunità ha perso le sue radici, la mia comunità si sente sola, si sente una società di individui”.* Questo è un ossimoro. Società e individui sono due cose che non possono andare insieme. E allora noi dobbiamo fare una società di esseri umani in relazione, e per farla abbiamo bisogno di strumenti. **Dobbiamo darci strumenti per metterci in relazione**».
 (dall'intervento finale di Nicola Capone)
 
-Il processo che emerge dal regolamento prende il nome di **Algoritmo dei beni comuni: metodo favoloso per far sbocciare un bene** ed è stato sintetizzato in due schemi che lo rappresentano tramite un flowchart, utilizzando le fasi di una storia d'amore.
-
-↳ http://bit.ly/strategia-favolosa // **strategia .doc**
+Il processo che emerge dal regolamento prende il nome di **Algoritmo dei beni comuni: metodo favoloso per far sbocciare un bene** ed è stato sintetizzato in due schemi che lo rappresentano tramite un flowchart, utilizzando le fasi di una storia d'amore. Inoltre, il collaborazione con il **laboratorio X e Y **è stata costruita una **strategia di comunicazione**, in particolare sull’articolazione del **progetto d'identità** (“Il Metodo Favoloso”) e sulle meccaniche di “generazione del senso” e sono stati sviluppati strumenti e azioni non convenzionali di comunicazione.
 
 ↳ http://bit.ly/ilmetodofavoloso // **slide introduttive .pdf**
+
+↳ http://bit.ly/strategia-favolosa // **strategia .doc**
 
 ## Utilizzo
 
 In allegato al regolamento, è stato creato un toolkit cosi composto:
-— un glossario;
-— la procedura per attivare uno spazio nella propria città; 
-— le componenti sociali da mappare e coinvolgere;
-— gli strumenti decisionali e di auto-gestione; 
-— la visione
+un glossario;
+la procedura per attivare uno spazio nella propria città; 
+le componenti sociali da mappare e coinvolgere;
+gli strumenti decisionali e di auto-gestione; 
+la visione
 
 ↳ http://bit.ly/toolkit-favoloso // **toolkit .doc**
 
