@@ -17,7 +17,10 @@ In quest’ottica, alcuni immobili di San Vito dei Normanni **diventeranno dei l
 
 **Dal DPRU del Comune di San Vito dei Normanni.**
 
-Quando Ex fadda ci ha chiamati a questa sfida l’obiettivo era capire quali destinazioni d'uso assegnare agli immobili individuati dall’Amministrazione di San Vito all’interno del percorso di generazione urbana avviato nel 2017 chiamato Santu Vitu e con quali modalità darli in gestione ai cittadini che ne avrebbero fatto richiesta. Da qui è nato dunque XYZ - Santu Vitu Mia Reloaded. Il processo, però, ci ha portati in un’altra direzione. Siamo partiti dall’analisi delle esperienze già note - come quella del regolamento sviluppato da Labsus per il comune di Bologna - per elaborare qualcosa di inedito e favoloso.
+«San Vito ha preso dieci di questi spazi e ha detto *“no, non te li do, devono diventare una struttura portante per la mia comunità, perché la mia comunità è in crisi, la mia comunità ha perso le sue radici, la mia comunità si sente sola, si sente una società di individui”.* Questo è un ossimoro. Società e individui sono due cose che non possono andare insieme. E allora noi dobbiamo fare una società di esseri umani in relazione, e per farla abbiamo bisogno di strumenti. **Dobbiamo darci strumenti per metterci in relazione**».
+(dall'intervento finale di Nicola Capone)
+
+Il processo che emerge dal regolamento prende il nome di **Algoritmo dei beni comuni: metodo favoloso per far sbocciare un bene** ed è stato sintetizzato in due schemi che lo rappresentano tramite un flowchart, utilizzando le fasi di una storia d'amore.
 
 ↳ http://bit.ly/strategia-favolosa // **strategia .doc**
 
